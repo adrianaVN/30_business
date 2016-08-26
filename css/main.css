@@ -1,0 +1,54 @@
+header{
+	background-image:url("../image/large.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	/* height: 500px; */
+	/* background-color:#080808; */
+	/* opacity: 0.8; */
+}
+nav.navbar{
+	background-color: transparent; 
+	border: 0; 
+			
+} /*Fondo del nav bar*/ 	
+.navbar-default .navbar-brand { 
+	color: white;	
+ 	font-size: 120%;
+ }/*Color del titulo*/
+  .navbar-default .navbar-nav > li > a { 
+  	color: #D7DBDD; 
+ } /*Color de links*/ 
+h2{
+	color: white;
+}
+.espacio{
+	margin-top: 8%;
+}
+.blue{
+	color: #1322B0;
+}
+.text-white{
+	color: white;
+}
+.marb{
+	margin-top: 4%;
+}
+.caja{
+	background-color: #2031B3;
+	opacity: 0.4;
+	padding: 1%;
+}
+.azul{
+	color: #10A0F2;
+}
+.icon{
+	font-size: 250%;
+}
+
+/* .circulo{
+	width: 50%;
+	height: 200px
+	border-radius: 100%;
+	background-color: #0CA191;
+	padding: 5%;
+} */
