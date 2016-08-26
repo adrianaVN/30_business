@@ -34,21 +34,52 @@ h2{
 	margin-top: 4%;
 }
 .caja{
+	
 	background-color: #2031B3;
+	background-size: cover;
 	opacity: 0.4;
 	padding: 1%;
+	padding-right: 20%;
+	padding-left: 20%;
 }
 .azul{
 	color: #10A0F2;
 }
 .icon{
-	font-size: 250%;
+	font-size: 200%;
 }
-
-/* .circulo{
-	width: 50%;
-	height: 200px
-	border-radius: 100%;
-	background-color: #0CA191;
-	padding: 5%;
-} */
+.espacio2{
+	margin-bottom: 7%;
+}
+.flecha{
+	margin-top: 10%;
+}
+.fondor{
+    width: 25%;
+    border: blue solid  0 2px 2px 0 ;
+    border-radius: 360px;
+    box-shadow: 2px 2px 2px 2px;
+    padding: 7%;
+    margin-left: 35%;
+    margin-bottom: 8%;
+    margin-top:10%; 
+}
+iframe{
+	width: 100%;
+	height:315px;
+}
+.fl{
+	margin-left: 40%;
+}
+.im{
+	background-image: url("../image/sec-2.jpg");
+	background-size: 90%; 
+	background-repeat: no-repeat;
+	height: 600px;
+}
+.centrar{
+	margin-right: 30%;
+}
+.arriba{
+	margin-top: 14%;
+}
