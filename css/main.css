@@ -9,6 +9,10 @@ header{
 	background-repeat: no-repeat;
 	height: 500px;
 }
+#logo{
+	margin-top: 5%;
+	width: 65%;
+}
 nav.navbar{
 	background-color: transparent; 
 	border: 0; 
@@ -92,6 +96,7 @@ iframe{
 	
 	background-color: #2092FC;
 	padding: 2%;
+	color: white;
 }
 .esp{
 	margin-top: 14%;
@@ -105,9 +110,9 @@ footer{
 	background-color: #171B56;
 	padding-top: 3%;
 }
-.efecto img {
+/* .efecto img {
 border: 3px solid #eee;
-box-shadow: 4px 4px 4px rgba(0,0,0,0.2); */
+box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
 -webkit-transition: all 0.5s ease-out;
 -moz-transition: all 0.5s ease;
 -ms-transition: all 0.5s ease;
@@ -117,4 +122,4 @@ box-shadow: 4px 4px 4px rgba(0,0,0,0.2); */
 -moz-transform: rotate(-7deg);
 -ms-transform: rotate(-7deg);
 transform: rotate(-7deg);
-}
+} */
