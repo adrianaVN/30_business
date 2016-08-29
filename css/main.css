@@ -2,9 +2,6 @@ header{
 	background-image:url("../image/large.jpg");
 	background-size: cover; 
 	background-repeat: no-repeat;
-	/* height: 500px; */
-	/* background-color:#080808; */
-	/* opacity: 0.8; */
 }
 #bc{
 	background-image:url("../image/large.jpg");
@@ -91,9 +88,6 @@ iframe{
 	background-repeat: no-repeat;
 	height: 600px;
 }
-.centrar{
-	margin-right: 30%;
-}
 .arriba{
 	
 	background-color: #2092FC;
@@ -106,4 +100,21 @@ iframe{
 	background-image:url("../image/large.jpg");
 	background-size: cover; 
 	background-repeat: no-repeat; 
+}
+footer{
+	background-color: #171B56;
+	padding-top: 3%;
+}
+.efecto img {
+border: 3px solid #eee;
+box-shadow: 4px 4px 4px rgba(0,0,0,0.2); */
+-webkit-transition: all 0.5s ease-out;
+-moz-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+}
+.efecto img:hover {
+-webkit-transform: rotate(-7deg);
+-moz-transform: rotate(-7deg);
+-ms-transform: rotate(-7deg);
+transform: rotate(-7deg);
 }
