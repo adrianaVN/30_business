@@ -6,6 +6,12 @@ header{
 	/* background-color:#080808; */
 	/* opacity: 0.8; */
 }
+#bc{
+	background-image:url("../image/large.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	height: 500px;
+}
 nav.navbar{
 	background-color: transparent; 
 	border: 0; 
@@ -22,7 +28,7 @@ h2{
 	color: white;
 }
 .espacio{
-	margin-top: 8%;
+	margin-top: 9%;
 }
 .blue{
 	color: #1322B0;
@@ -52,7 +58,8 @@ h2{
 	margin-bottom: 7%;
 }
 .flecha{
-	margin-top: 10%;
+	margin-top: 5%;
+	margin-left: 2%;
 }
 .fondor{
     width: 25%;
@@ -73,7 +80,14 @@ iframe{
 }
 .im{
 	background-image: url("../image/sec-2.jpg");
-	background-size: 90%; 
+	background-size: 91%; 
+	background-repeat: no-repeat;
+	height: 600px;
+}
+.im2{
+	margin-top: 1%;
+	background-image: url("../image/banner.jpg");
+	background-size: 100%; 
 	background-repeat: no-repeat;
 	height: 600px;
 }
@@ -81,5 +95,15 @@ iframe{
 	margin-right: 30%;
 }
 .arriba{
+	
+	background-color: #2092FC;
+	padding: 2%;
+}
+.esp{
 	margin-top: 14%;
+}
+#foto{
+	background-image:url("../image/large.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat; 
 }
